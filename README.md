@@ -1,10 +1,12 @@
 # secure-api-app
 Created an NodeJS app with MongoDB and JWT measures along with unit test cases .
 
-git clone https://github.com/vinoddonnennavar/secure-api-app.git
-npm install
+# Steps to clone the repository and install dependencies
+# git clone https://github.com/vinoddonnennavar/secure-api-app.git
+
+# npm install
 
 #To start the express server, run the following
-npm run start
+# npm run start
 
-Open http://localhost:3000 and take a look around.
+Your app is up an running on http://localhost:3000 you can test the API's defined into the app.
